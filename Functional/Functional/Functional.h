@@ -2,8 +2,8 @@
 //  Functional.h
 //  Functional
 //
-//  Created by justin on 12/4/14.
-//  Copyright (c) 2014 Electroreef. All rights reserved.
+//  Created by justin on 3/24/15.
+//  Copyright (c) 2015 Electroreef. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

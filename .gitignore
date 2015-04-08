@@ -1,5 +1,14 @@
+externals/
+deploy/local_properties.txt
+deploy/properties.txt
+deploy/release_notes.txt
+deploy/build.sh
+deploy/deploy.sh
+deploy/install-dependencies.sh
+
 # Xcode
 #
+*.xccheckout
 *.xcarchive
 *.org
 .DS_Store
